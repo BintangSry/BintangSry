@@ -1,8 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Bintang</h1>
-
-<h3 align="center">
-  A passionate Fullstack Web Developer who loves building clean, responsive, and powerful websites with Tailwind CSS and PHP.
-</h3>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h1>Hi there 👋, I'm Bintang</h1>
+      <h3>
+        A passionate Fullstack Web Developer who loves building clean, responsive, and powerful websites with Tailwind CSS and PHP.
+      </h3>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Typing animation" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
