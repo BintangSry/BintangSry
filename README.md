@@ -1,16 +1,22 @@
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <h1>Hi there 👋, I'm Bintang</h1>
-      <h3>
-        A passionate Fullstack Web Developer who loves building clean, responsive, and powerful websites with Tailwind CSS and PHP.
-      </h3>
-    </td>
-    <td align="center" width="30%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Typing animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Typing animation" />
+
+# Hi there, I'm Bintang 👋  
+### Fullstack Web Developer | Tailwind CSS & PHP Enthusiast
+
+Crafting responsive, elegant, and scalable web solutions with a touch of creativity 💡  
+Currently learning Android development and diving deeper into fullstack magic 🧙‍♂️
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
