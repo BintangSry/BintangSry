@@ -7,7 +7,7 @@
       </h3>
     </td>
     <td align="center" width="30%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Typing animation" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Typing animation" />
     </td>
   </tr>
 </table>
